@@ -65,7 +65,7 @@ void search(char *cur_path,char *file)
 
         if(strcmp(cur_path,"/home/smiqbal")==0 && found == false)
         {
-            printf("File not present under %s\n", home);
+            printf("File not present !!\n");
         }
 
 
